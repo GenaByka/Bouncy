@@ -1,0 +1,11 @@
+.light-link{
+   color: #fff;
+}
+.header-link{
+   color: #fff;
+   transition: 0.1s;
+   &:hover{
+      border-bottom: 3px solid #fff;
+      line-height: 22px;
+   }
+}
